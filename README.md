@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cloudmc2&label=Profile%20views&color=0e75b6&style=flat" alt="cloudmc2" /> </p>
 
-- 👨‍💻 All of my projects are available at [jndrdev.site](jndrdev.site)
+- 👨‍💻 Learn more about me at [jndrdev.site](jndrdev.site)
 
 - 📫 How to reach me **jndr.dev@gmail.com**
 
