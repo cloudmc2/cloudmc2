@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jander</h1>
 <h3 align="center">A Aspiring software developer from Philippines</h3>
 
+<p align="center> "I am an aspiring Software Engineer driven by the challenge of turning complex ideas into reliable software. I specialize in building efficient, scalable, and user-friendly applications. My focus lies in solving real-world problems through clean code and thoughtful system design, ensuring that every project I touch is not just functional, but robust and maintainable." </p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cloudmc2&label=Profile%20views&color=0e75b6&style=flat" alt="cloudmc2" /> </p>
 
 - 👨‍💻 All of my projects are available at [jndrdev.site](jndrdev.site)
