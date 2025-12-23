@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jander</h1>
-<h3 align="center">A Aspiring software developer from Philippines</h3>
+<h1 align="center">Software dev from ph</h1>
 
 <h4 align="center"> "I am an aspiring Software Engineer driven by the challenge of turning complex ideas into reliable software. I specialize in building efficient, scalable, and user-friendly applications. My focus lies in solving real-world problems through clean code and thoughtful system design, ensuring that every project I touch is not just functional, but robust and maintainable." </h4>
 
