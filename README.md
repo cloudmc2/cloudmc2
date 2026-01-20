@@ -1,11 +1,11 @@
-<h1 align="center">Welcome!👋</h1>
 
-<h4 align="center"> "I am an aspiring Software Engineer. I specialize in building efficient and user-friendly applications." </h4>
+
+<h4 align="center"> "Aspiring Software Engineer."</h4>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cloudmc2&label=Profile%20views&color=0e75b6&style=flat" alt="cloudmc2" /> </p>
 
-- 👨‍💻 Learn more about me at <a href="https://jndrdev.site">jndrdev.site</a> <p> on going build </p>
+- 👨‍💻 Learn more about me at <a href="https://jndrdev.site">jndrdev.site</a>
 
 - 📫 How to reach me **jndr.dev@gmail.com**
 
